@@ -18,7 +18,7 @@ The neurons in the hidden layers are 200, 100 and 30.
 Xavier initialization was used to initialize the weights.
 The optimizer used was the Adam optimizer of tf.train .
 
-a train accuracy of 0.978 was achieved.
+train accuracy achieved is 0.978 was achieved.
 
 test accuracy achieved is 0.888.
 
