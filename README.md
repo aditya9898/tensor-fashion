@@ -1,6 +1,10 @@
 # tensor-fashion
 Exploring the fashion MNIST using tensorflow
 
+Here's a link to the complete dataset on kaggle.com
+https://www.kaggle.com/zalando-research/fashionmnist/data
+
+
 Fashion mnist is a dataset of 28x28 pixel grayscale images of clothes belonging to 10 catagories.    
 classes=['t-shirt','trouser','pullover','dress','coat','sandal','shirt','sneaker','bag','ankle-boot']
 
