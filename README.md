@@ -19,6 +19,7 @@ Xavier initialization was used to initialize the weights.
 The optimizer used was the Adam optimizer of tf.train .
 
 a train accuracy of 0.978 was achieved.
+
 test accuracy achieved is 0.888.
 
 a tutorial to the whole process can be found in this blog.
