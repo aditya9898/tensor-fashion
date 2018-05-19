@@ -1,5 +1,6 @@
 # tensor-fashion
 Exploring the fashion MNIST using tensorflow
+this is a project done without the use of convolutional neural nets.
 
 Here's a link to the complete dataset on kaggle.com
 https://www.kaggle.com/zalando-research/fashionmnist/data
